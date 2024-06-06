@@ -1,0 +1,19 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 2001,
+            "driver": "PostgreSQL",
+            "name": "Postgres",
+            "database": "postgres",
+            "username": "postgres",
+            "password": "2001"
+        }
+    ]
+}

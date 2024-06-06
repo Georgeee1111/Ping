@@ -1,0 +1,13 @@
+Step 1. You need to change the postgres details from the CheckConnection.java file 
+        - change the localhost, database name, user, password to your own
+Step 2. Run the CheckConnection.java if no errors found means JDBC was successfully integrated and running as it supposed to.
+
+Step 3. Run Salarium.java (my main file)
+
+
+Pre-requisites 
+        - Postgres localhost already setup including
+        
+
+
+PS: Localhost rani ang database so dli mo run if e compile to .exe (Which requires remote server and halosa is mag pa bayad sila)

@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "Salarium\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "Salarium\\lib\\postgresql-42.7.1.jar",
+        "Salarium\\lib\\flatlaf-intellij-themes-3.2.5.jar",
+        "Salarium\\lib\\flatlaf-demo-3.2.5.jar",
+        "Salarium\\lib\\flatlaf-3.2.5.jar",
+        "Salarium\\lib\\datechooser.jar"
+    ]
+}
